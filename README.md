@@ -12,7 +12,7 @@
 
 -----
 ## 能访问github的用这个
-### ql repo https://github.com/Zy143L/wskey.git "wskey"
+### ql repo https://github.com/thesy472472/wskey.git "wskey"
 
 ## 一般机子用这个
 ### ql repo https://ghproxy.com/github.com/Zy143L/wskey.git "wskey"
